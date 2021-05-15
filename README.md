@@ -2,6 +2,9 @@
 
 Primeiro projetinho. Será um HTML para a página, depois iremos implantar CSS, javascript e assim por diante.
 
+## Requisitos
+É bacana ter um editor de texto como **Sublime**: https://www.sublimetext.com/ ou **VisualStudio Code**: https://code.visualstudio.com/.
+
 ## Dicas
 
 Você pode pedir ajuda no discord, pode pesquisar por conta própria, mas ja deixo uma playlist em qual você pode aprender HTML: https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n . Quer começar já com a mão na massa? https://www.youtube.com/watch?v=UForX7ehChM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=11
