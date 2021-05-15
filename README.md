@@ -12,7 +12,7 @@ Para a primeira etapa é necessário o HTML. A equipe deve se dividir da forma q
 
 ## Segunda Etapa
 
-Na segunda etapa iremos começar a trabalhar com o CSS, se você já tem maiores conhecimentos, mão na massa, se não tiver, sem preocupações, vá no seu ritmo, perguntando pesquisando e estudando. [Postarei uma prévia para os mais novatos mais pra frente com o andamento do projeto]
+Na segunda etapa iremos começar a trabalhar com o CSS. Se você já tem maiores conhecimentos, mão na massa! Se não tiver, sem preocupações. Vá no seu ritmo, perguntando pesquisando e estudando. [Postarei uma prévia para os mais novatos mais pra frente com o andamento do projeto]
 
 ## Objetivo final
 
